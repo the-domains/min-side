@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Min side]]></title>
+        <description><![CDATA[Min side]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 12 Dec 2015 16:43:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sør Afrika Tur ]]></title>
+            <description><![CDATA[<article><h1>Sør Afrika Tur </h1><p>null</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9aaf4a54cf9671918bc59762615c1180a64b3be4.jpg"></article>]]></description>
+            <link>undefinedsor-afrika-tur/index.html</link>
+            <guid isPermaLink="false">0d9febad-1b9a-41d1-8310-3c37ffe52c8f</guid>
+            <pubDate>Sat, 12 Dec 2015 16:43:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
