@@ -1,6 +1,6 @@
 name: Min side
 favicon: null
-layout_spectrum: 0.7158712239470333
+layout_spectrum: 0.2465
 typography_spectrum: 0.2539489862974733
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.38616497442126274
+    - '#0b0b0b'
+    - '#4a4a4a'
+    - '#838383'
+    - '#aeaeae'
+    - '#dddddd'
+  brandStrength: 0.5
   lightness: 0.2660486891400069
   saturation: 0.40154434740543365
   rhythmicContrast: 0.3238604662474245
